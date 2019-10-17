@@ -20,7 +20,7 @@ class ViewController: UIViewController {
     }
     
     override func vidDidDisappear(_ animated: Bool) {
-        //
+        //2019-10-17 14:06
     }
 
 
